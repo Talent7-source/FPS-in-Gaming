@@ -12,13 +12,15 @@
 ## Key Relationships
 
 ### 1. Ideal Scenario: FPS = Refresh Rate
-```math
-\text{FPS} = \text{Hz} \quad \text{(Perfect synchronization)}
+
+``\text{FPS} = \text{Hz} \quad \text{(Perfect synchronization)}`` 
+
 Example: 144 FPS on a 144Hz monitor
 
 Result: Buttery smooth motion with no tearing
 
-### 2. FPS > Refresh Rate (Wasted Frames)
+2. FPS > Refresh Rate (Wasted Frames)
+math
 \text{FPS} > \text{Hz} \quad \text{(e.g., 300 FPS on 144Hz monitor)}
 Effects:
 
@@ -28,7 +30,8 @@ Increased GPU heat/power consumption
 
 Solution: Enable V-Sync or cap FPS to refresh rate
 
-### 3. FPS < Refresh Rate (Stuttering)
+3. FPS < Refresh Rate (Stuttering)
+math
 \text{FPS} < \text{Hz} \quad \text{(e.g., 45 FPS on 60Hz monitor)}
 Effects:
 
@@ -41,6 +44,8 @@ Solutions:
 Enable VRR (GSync/FreeSync)
 
 Use frame doubling (30→60Hz)
+
+Technical Specifications
 Frame Timing Comparison
 Scenario	Frame Duration (60Hz)	Frame Duration (144Hz)
 1 Frame	16.67ms	6.94ms
@@ -58,6 +63,26 @@ Open standard (DP 1.2a+)
 
 Certified tiers: FreeSync, FreeSync Premium, FreeSync Premium Pro
 
+VRR (HDMI 2.1)
+
+Console-focused standard
+
+Typically 48-120Hz range
+
+Practical Recommendations
+For Competitive Gamers
+Monitor: 240Hz+ with DyAc/ELMB
+
+FPS Target: Uncapped (disable V-Sync)
+
+Settings: Low graphics for max FPS
+
+For Single-Player Games
+Monitor: 120Hz OLED with VRR
+
+FPS Target: Match refresh rate
+
+Settings: High graphics, enable HDR
 VRR (HDMI 2.1)
 
 Console-focused standard
