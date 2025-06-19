@@ -83,10 +83,3 @@ Studies show that higher FPS:
 - **1% lows**: Indicates stuttering
 - **Frametime consistency**: Smoothness indicator
 
-> Example Benchmark Result:
-> ```
-> Game: Cyberpunk 2077 @ 1440p
-> Avg FPS: 72.4
-> 1% Low: 48.2
-> 0.1% Low: 41.7
-> ```
