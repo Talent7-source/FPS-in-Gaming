@@ -1,6 +1,6 @@
 # FPS in Gaming - Comprehensive Guide
 
-![FPS Banner](https://cdn.discordapp.com/attachments/1338700281839489065/1385294169634902087/InShot_20250619_215059051.jpg)
+![FPS Banner(https://cdn.discordapp.com/attachments/1338700281839489065/1385294169634902087/InShot_20250619_215059051.jpg)
 
 A repository dedicated to understanding, measuring, and optimizing Frames Per Second (FPS) in video games.
 
