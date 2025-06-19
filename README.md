@@ -1,6 +1,6 @@
 # FPS in Gaming - Comprehensive Guide
 
-![FPS Banner](https://cloudinary-marketing-res.cloudinary.com/images/w_1000,c_scale/v1677102302/Frame_Rate_Per_Second/Frame_Rate_Per_Second-png?_i=AA)
+![FPS Banner](https://cdn.discordapp.com/attachments/1338700281839489065/1385294169634902087/InShot_20250619_215059051.jpg)
 
 A repository dedicated to understanding, measuring, and optimizing Frames Per Second (FPS) in video games.
 
