@@ -16,7 +16,7 @@ A repository dedicated to understanding, measuring, and optimizing Frames Per Se
 To use the basic FPS counter:
 ```html
 https://github.com/Talent7-source/FPS-in-Gaming/blob/main/Docs.md
-<script src="fps-counter.js"></script>
+<script src="fps-counter.js"></script>```
 
 [![Join Us on YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@Talent-7)
 [![Follow on Instagram](https://img.shields.io/badge/Instagram-Follow-orange?style=for-the-badge&logo=instagram)](https://www.instagram.com/t7members/)
