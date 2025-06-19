@@ -15,4 +15,5 @@ A repository dedicated to understanding, measuring, and optimizing Frames Per Se
 
 To use the basic FPS counter:
 ```html
+https://github.com/Talent7-source/FPS-in-Gaming/blob/main/Docs.md
 <script src="fps-counter/fps-counter.js"></script>
