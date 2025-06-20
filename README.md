@@ -1,6 +1,6 @@
 # FPS in Gaming - Comprehensive Guide
 
-![FPS Banner](https://ibb.co/Q3FhnQ8T)
+![FPS Banner](https://i.ibb.co/Q3FhnQ8T/FPS-Banner.jpg)
 
 A repository dedicated to understanding, measuring, and optimizing Frames Per Second (FPS) in video games.
 
