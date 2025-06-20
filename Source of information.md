@@ -7,17 +7,8 @@
      Journal of Vision, 21(3), 1-18  
      DOI: [10.1167/jov.21.3.1](https://doi.org/10.1167/jov.21.3.1)
 
-2. **Input Latency Studies**
-   - Lee, S. & Kim, H. (2022). *The Impact of Refresh Rate on Competitive Gaming Performance*  
-     IEEE Transactions on Human-Machine Systems  
-     DOI: [10.1109/THMS.2022.3145678](https://doi.org/10.1109/THMS.2022.3145678)
 
-## Industry White Papers
 
-| Source | Key Findings |
-|--------|-------------|
-| [NVIDIA: Latency Analysis Guide (2023)](https://www.nvidia.com/en-us/geforce/guides/latency-analysis/) | Measures end-to-end system latency across hardware configurations |
-| [AMD FreeSync Premium Pro Whitepaper](https://www.amd.com/en/technologies/free-sync) | Adaptive sync technology specifications |
 
 ## Benchmarking Tools
 
